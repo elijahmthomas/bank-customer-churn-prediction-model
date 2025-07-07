@@ -18,7 +18,7 @@ This project predicts whether a bank customer will churn (leave) based on their 
 ---
 
 ## How to run
-1. Install dependencies: `pip install pandas| scikit-learn | matplotlib`
+1. Install dependencies: `pip install pandas | scikit-learn | matplotlib`
 2. Run `bank-churn-ml.py`
 3. Check the output predictions in `churn_predictions.csv`
 
