@@ -60,7 +60,7 @@ Use custom threshold (0.3) if catching churners is more important than being pre
 
 ## About Me
 
-Hi, I'm Elijah Thomas — a data analyst with a background in finance and a passion for turning messy data into meaningful insights. I created this project to showcase my skills in Python data wrangling, machine learning, and logistic regression. 
+Hello, I'm Elijah Thomas — a data analyst with a background in finance and a passion for turning messy data into meaningful insights. I created this project to showcase my skills in Python data wrangling, machine learning, and logistic regression. 
 
 I'm actively seeking roles in data analytics, software engineering, or finance, where I can apply clean analytics and technical problem-solving to drive better decisions.
 
